@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bluenviron/gortsplib/v4/pkg/auth"
-	"github.com/bluenviron/gortsplib/v4/pkg/base"
-	"github.com/bluenviron/gortsplib/v4/pkg/liberrors"
+	"github.com/genfanh/gortsplib/v4/pkg/auth"
+	"github.com/genfanh/gortsplib/v4/pkg/base"
+	"github.com/genfanh/gortsplib/v4/pkg/liberrors"
 )
 
 const (

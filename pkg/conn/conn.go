@@ -5,7 +5,7 @@ import (
 	"bufio"
 	"io"
 
-	"github.com/bluenviron/gortsplib/v4/pkg/base"
+	"github.com/genfanh/gortsplib/v4/pkg/base"
 )
 
 const (

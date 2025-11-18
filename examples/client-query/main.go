@@ -4,8 +4,8 @@ package main
 import (
 	"log"
 
-	"github.com/bluenviron/gortsplib/v4"
-	"github.com/bluenviron/gortsplib/v4/pkg/base"
+	"github.com/genfanh/gortsplib/v4"
+	"github.com/genfanh/gortsplib/v4/pkg/base"
 )
 
 // This example shows how to

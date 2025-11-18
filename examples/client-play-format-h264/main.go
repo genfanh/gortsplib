@@ -6,11 +6,11 @@ package main
 import (
 	"log"
 
-	"github.com/bluenviron/gortsplib/v4"
-	"github.com/bluenviron/gortsplib/v4/pkg/base"
-	"github.com/bluenviron/gortsplib/v4/pkg/format"
-	"github.com/bluenviron/gortsplib/v4/pkg/format/rtph264"
 	"github.com/bluenviron/mediacommon/v2/pkg/codecs/h264"
+	"github.com/genfanh/gortsplib/v4"
+	"github.com/genfanh/gortsplib/v4/pkg/base"
+	"github.com/genfanh/gortsplib/v4/pkg/format"
+	"github.com/genfanh/gortsplib/v4/pkg/format/rtph264"
 	"github.com/pion/rtp"
 )
 

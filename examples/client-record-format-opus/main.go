@@ -8,11 +8,11 @@ import (
 	"log"
 	"time"
 
-	"github.com/bluenviron/gortsplib/v4"
-	"github.com/bluenviron/gortsplib/v4/pkg/description"
-	"github.com/bluenviron/gortsplib/v4/pkg/format"
-	"github.com/bluenviron/gortsplib/v4/pkg/format/rtpsimpleaudio"
 	"github.com/bluenviron/mediacommon/v2/pkg/codecs/opus"
+	"github.com/genfanh/gortsplib/v4"
+	"github.com/genfanh/gortsplib/v4/pkg/description"
+	"github.com/genfanh/gortsplib/v4/pkg/format"
+	"github.com/genfanh/gortsplib/v4/pkg/format/rtpsimpleaudio"
 	"github.com/pion/rtp"
 )
 

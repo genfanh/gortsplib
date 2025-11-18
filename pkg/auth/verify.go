@@ -8,8 +8,8 @@ import (
 	"regexp"
 	"slices"
 
-	"github.com/bluenviron/gortsplib/v4/pkg/base"
-	"github.com/bluenviron/gortsplib/v4/pkg/headers"
+	"github.com/genfanh/gortsplib/v4/pkg/base"
+	"github.com/genfanh/gortsplib/v4/pkg/headers"
 )
 
 var reControlAttribute = regexp.MustCompile("^(.+/)trackID=[0-9]+$")

@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bluenviron/gortsplib/v4/pkg/multicast"
-	"github.com/bluenviron/gortsplib/v4/pkg/readbuffer"
+	"github.com/genfanh/gortsplib/v4/pkg/multicast"
+	"github.com/genfanh/gortsplib/v4/pkg/readbuffer"
 )
 
 type clientAddr struct {

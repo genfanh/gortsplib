@@ -3,8 +3,8 @@ package auth
 import (
 	"fmt"
 
-	"github.com/bluenviron/gortsplib/v4/pkg/base"
-	"github.com/bluenviron/gortsplib/v4/pkg/headers"
+	"github.com/genfanh/gortsplib/v4/pkg/base"
+	"github.com/genfanh/gortsplib/v4/pkg/headers"
 )
 
 // NewSender allocates a Sender.
